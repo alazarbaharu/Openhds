@@ -1,3 +1,5 @@
+# Generate QR Code based Location ID form sqlite database
+
 import sqlite3
 import segno
 import os
