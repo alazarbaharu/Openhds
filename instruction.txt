@@ -1,1 +1,6 @@
+First crate a folder named
+qr_codes
 
+Second put your location code isnide the excel file named Locations
+
+Run the LocationQrgenerator.py then you will see a form for generate pdf click on it then you will find a pdf file genarated based on the timestamp 
