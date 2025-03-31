@@ -1,3 +1,4 @@
+Downalod all files into a specific folder.
 First crate a folder named
 qr_codes
 
